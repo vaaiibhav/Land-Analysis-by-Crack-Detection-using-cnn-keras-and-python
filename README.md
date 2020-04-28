@@ -1,2 +1,9 @@
-# Land Analysis by Crack Detection using cnn keras and python
- Land Analysis by Crack Detection using cnn keras and python for Farm Land
+# crack_detection
+full of modules useful (well, for me) for out-of-the-box Neural Network designing, training, testing and visualizing
+
+## modules:
+  dataprep.py
+  detection.py
+  nnetworks.py
+  results.py
+  training.py
